@@ -4,7 +4,7 @@ import { Button as TButton, Icon as TIcon, Menu as TMenu, MenuItem as TMenuItem,
 </script>
 
 <template>
-    <div class="min-h-screen bg-gradient-to-br from-blue-50 to-purple-50 text-gray-800">
+    <div class="min-h-screen bg-gradient-to-br from-blue-50 to-purple-50  text-gray-800">
         <!-- 导航栏 -->
         <div class="sticky top-0 z-50 bg-white/80 backdrop-blur-md shadow-sm">
             <div class="container mx-auto px-4">
