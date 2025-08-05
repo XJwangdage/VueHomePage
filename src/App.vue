@@ -3,7 +3,7 @@
 </script>
 
 <template>
-    <t-typography-title>欢迎来到 XJ の 神秘主页</t-typography-title>
+    <t-typography-title>欢迎来到 XJ の 神秘主页 </t-typography-title>
     <t-head-menu theme="light">
         <template #logo>
             <img height="28" src="https://tdesign.gtimg.com/site/baseLogo-light.png" alt="logo" />
